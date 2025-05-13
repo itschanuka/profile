@@ -15,7 +15,6 @@
 
 ##
 
-<br clear="both">
 
 <div style="text-align: right;">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding animation" style="height: 200px;"/>
