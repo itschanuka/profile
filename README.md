@@ -17,8 +17,6 @@
 
 <br clear="both">
 
-<div style="position: relative;">
-
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" alt="coding animation" style="position: absolute; top: 0; left: 0; z-index: -1;" />
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="200" alt="software engineering gif" style="position: absolute; top: 0; right: 0; z-index: -1;" />
 
