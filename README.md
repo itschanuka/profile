@@ -17,8 +17,8 @@
 
 <br clear="both">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding animation" style="display: block; margin-left: auto; margin-right: 0; height: 200px;" />
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="software engineering gif" style="display: block; margin-left: auto; margin-right: 0; height: 200px;" />
+<img aling ="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding animation" style="display: block; margin-left: auto; margin-right: 0; height: 200px;" />
+<img aling ="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="software engineering gif" style="display: block; margin-left: auto; margin-right: 0; height: 200px;" />
 
 ###
 
