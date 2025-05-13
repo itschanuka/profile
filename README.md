@@ -40,6 +40,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
 </div>
 
+<br clear="both">
+
 <div align="left">
   <h4>Tools & Frameworks</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -63,7 +65,10 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
+  <h4>Connect with me</h4>
   <a href="https://www.instagram.com/itschanuka/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
