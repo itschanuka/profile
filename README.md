@@ -17,8 +17,7 @@
 
 <br clear="both">
 
-<img aling="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="200" alt="software engineering gif" />
-
+<img align="right" height="200" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"  />
 
 ###
 
