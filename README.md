@@ -2,10 +2,12 @@
 
 <br clear="both">
 
+<!-- Languages and Frameworks side-by-side -->
+<h3>🧠 Languages & Frameworks</h3>
 <table>
   <tr>
     <td valign="top">
-      <h4>🧠 Languages</h4>
+      <h4>Languages:</h4>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
@@ -17,7 +19,7 @@
       </p>
     </td>
     <td valign="top">
-      <h4>🧠 Frameworks & Libraries</h4>
+      <h4>Frameworks & Libraries:</h4>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30"/>
@@ -25,9 +27,14 @@
       </p>
     </td>
   </tr>
+</table>
+
+<!-- Tools and IDEs side-by-side -->
+<h3>🛠️ Tools & IDEs</h3>
+<table>
   <tr>
     <td valign="top">
-      <h4>🛠️ Tools</h4>
+      <h4>Tools:</h4>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30"/>
@@ -35,7 +42,7 @@
       </p>
     </td>
     <td valign="top">
-      <h4>🖥️ IDEs</h4>
+      <h4>IDEs:</h4>
       <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30"/>
@@ -45,6 +52,7 @@
   </tr>
 </table>
 
+<!-- Social Links -->
 <br>
 
 <div align="left">
@@ -58,3 +66,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
 </div>
+<br><br>
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
