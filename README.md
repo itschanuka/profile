@@ -4,11 +4,11 @@
 
 ###
 
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=itschanuka&style=flat-square&color=blue" alt="itschanuka" />
+<p align="center">
+  🧡 Thanks for stopping by!  
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=itschanuka&style=for-the-badge&color=FF69B4&label=Profile Views" alt="Profile View Counter"/>
 </p>
-
 
 <br clear="both">
 
