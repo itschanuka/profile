@@ -1,11 +1,10 @@
 <h3 align="center">Hi 👋! My name is Chanuka and I'm a Software Engineering student from Sri Lanka.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itschanuka&style=flat-square&label=Visitors&color=FF69B4" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=itschanuka&style=flat-square&label=Visitors&color=87CEEB" alt="Profile Views" />
   <br/>
-  <b>💖 You're visitor number above! Thanks for visiting! 💻✨</b>
+  <b>💙 You're awesome for visiting my profile! ✨</b>
 </p>
-
 
 <br clear="both">
 
