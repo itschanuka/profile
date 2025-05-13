@@ -18,7 +18,8 @@
 <br clear="both">
 
 <img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding animation" />
-<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="200" alt="software engineering gif" />
+<br>
+<img align="right" height="200" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="software engineering gif" />
 
 ###
 
