@@ -20,7 +20,6 @@
 <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
-
 <div align="left">
   <h4>Languages</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
